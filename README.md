@@ -1,2 +1,2 @@
-# my-first-project
-This is my first project on GitHub.
+# Misson: First Project
+This is just a test project to get a feel for the site.
